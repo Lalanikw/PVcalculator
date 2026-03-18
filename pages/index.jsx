@@ -123,7 +123,7 @@ export default function Dashboard() {
         <meta name="description" content="Interactive solar PV performance and payback calculator — powered by PVGIS (EU JRC)." />
       </Head>
 
-      <div style={{ minHeight: '100vh', background: '#111827', padding: '24px 0' }}>
+      <div style={{ minHeight: '100vh', background: '#111827', padding: '10px 0' }}>
         <div style={{ maxWidth: 1180, margin: '0 auto', padding: '0 12px' }}>
 
           {/* HEADER */}
